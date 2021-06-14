@@ -3,7 +3,7 @@
 This assignment required me to create Mongo database with a Mongoose schema and handle routes with Express.  
 Follow this link to deploy application
 
-Link
+https://salty-basin-17411.herokuapp.com/
 
 ## Description
 
